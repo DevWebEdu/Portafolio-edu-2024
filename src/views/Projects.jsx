@@ -142,7 +142,7 @@ export const Projects = () => {
         </div>
       </div>
       <footer class=" mt-40 text-center p-5 text-gray-500 font-bold uppercase">
-      © desarrollado por Eduardo Luna Meza - Todos los hechos resevados 2024
+      © desarrollado por Eduardo Luna Meza - Todos los derechos resevados 2024
       </footer>
     </section>
   )

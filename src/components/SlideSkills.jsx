@@ -13,7 +13,7 @@ import wordpress from '../static/wordpress.png'
 
 export const SlideSkills = () => {
     return (
-        <div className='flex flex-col justify-center mt-32 sm:mt-40' >
+        <div className='flex flex-col overflow-hidden justify-center mt-32 sm:mt-40  ' >
 
             <div className='slider'>
                 <div className='slide-track flex  '>

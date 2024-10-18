@@ -26,7 +26,7 @@ export const Experience = () => {
                     visible
                 >
                     <h3 className="vertical-timeline-element-title">Universidad Privada San Juan Bautista</h3>
-                    <h4 className="vertical-timeline-element-subtitle">Ingenieria de Computacion y Sistemas (Títulado)  - Lima, Perú</h4>
+                    <h4 className="vertical-timeline-element-subtitle">Ingenieria de Computación y Sistemas (Títulado)  - Lima, Perú</h4>
                     <p>
                         Estudios universitarios concluidos
                     </p>
@@ -46,7 +46,7 @@ export const Experience = () => {
                     }
 
                 >
-                    <h3 className="vertical-timeline-element-title">Asociacion Cultural Peruano Britanica | Britanico</h3>
+                    <h3 className="vertical-timeline-element-title">Asociación Cultural Peruano Británica | Británico</h3>
                     <h4 className="vertical-timeline-element-subtitle">Ingles - Lima, Perú</h4>
                     <p>
                         Advance 1

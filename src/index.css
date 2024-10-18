@@ -22,10 +22,6 @@ html{
 }
 
 
-section{
-  min-height: 100vh;
-}
-
 .slider {
   width: 75vw;
   height: auto;
