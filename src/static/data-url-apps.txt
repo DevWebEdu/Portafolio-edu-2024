@@ -1,0 +1,12 @@
+react+laravel Quiosco
+	Api-Laravel  ( Railway ) 
+	Link : https://quioscolaravel-production.up.railway.app/
+	Front-React ( Vercel )
+	Link : https://react-quiosco-iota.vercel.app/
+devstagram
+	Laravel ( DomCloud ) 
+	Link : https://wuccehe.mnz.dom.my.id/login
+FeelingBoard 
+	Link:https://feelingboardco.com/
+
+	
