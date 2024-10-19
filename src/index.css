@@ -9,7 +9,7 @@ html{
   font-family: "Roboto Condensed", sans-serif;
   scroll-behavior: smooth;
   color-scheme: ligth dark;
-  background: #141414;
+  background: #211f1f;
 }
 
 .imagen-devstagram{
@@ -67,7 +67,7 @@ html{
     object-fit: fill;
     image-orientation: flip;
     cursor:pointer;
-    opacity: 0.5;
+    opacity: 0.7;
     
   }
   

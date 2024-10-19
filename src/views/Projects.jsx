@@ -4,11 +4,11 @@ import quiosco from '../static/quiosco.png'
 import feelingboard from '../static/feelingboard.png'
 export const Projects = () => {
   return (
-    <section id="projects" className='mb-40'>
+    <section id="projects" className=''>
       <h2 className='font-light text-5xl text-center mb-28  '> Projects </h2>
       <div class="flex flex-col gap-10 px-4 sm:px-0   ">
         {/* image-container */}
-        <div className=' w-full h-auto bg-[#243642] flex flex-col md:flex-row p-5 md:p-10 gap-2 rounded-md'>
+        <div className=' w-full h-auto bg-[#243642] flex flex-col md:flex-row p-5 md:p-8 gap-2 rounded-md'>
           <div className="relative  w-full  md:w-3/6  ">
             {/* imagen-overlay */}
             <div className='absolute top-0 left-0 w-full h-full flex gap-8 items-center justify-center  opacity-0 hover:opacity-100 hover:backdrop-blur-2xl transition-all duration-500 ease-in-out'>
@@ -51,7 +51,7 @@ export const Projects = () => {
           </div>
         </div>
         
-        <div className=' w-full h-auto bg-[#243642] flex flex-col-reverse md:flex-row p-5 md:p-10  gap-2 rounded-md'>
+        <div className=' w-full h-auto bg-[#243642] flex flex-col-reverse md:flex-row p-5 md:p-8  gap-2 rounded-md'>
         <div className=' h-full  w-full md:w-3/6 p-2 md:p-10'>
             <h2 className=' text-4xl md:text-6xl font-thin  w-full md:text-right text-center'>
               Quiosco - Market
@@ -98,7 +98,7 @@ export const Projects = () => {
           
         </div>
         
-        <div className=' w-full h-auto bg-[#243642] flex flex-col md:flex-row p-5 md:p-10 gap-2 rounded-md'>
+        <div className=' w-full h-auto bg-[#243642] flex flex-col md:flex-row p-5 md:p-8 gap-2 rounded-md'>
           <div className="relative  w-full  md:w-3/6  ">
             {/* imagen-overlay */}
             <div className='absolute top-0 left-0 w-full h-full flex gap-8 items-center justify-center  opacity-0 hover:opacity-100 hover:backdrop-blur-2xl transition-all duration-500 ease-in-out'>
