@@ -13,7 +13,7 @@ export const Projects = () => {
             {/* imagen-overlay */}
             <div className='absolute top-0 left-0 w-full h-full flex gap-8 items-center justify-center  opacity-0 hover:opacity-100 hover:backdrop-blur-2xl transition-all duration-500 ease-in-out'>
               {/* image-button */}
-              <a href='https://wuccehe.mnz.dom.my.id/login' target="_blank" className='hover:cursor-pointer bg-slate-900  rounded-lg py-2 px-5 hover:bg-slate-800 transition-all duration-500 ease-in-out'>Demo</a>
+              {/* <a href='https://wuccehe.mnz.dom.my.id/login' target="_blank" className='hover:cursor-pointer bg-slate-900  rounded-lg py-2 px-5 hover:bg-slate-800 transition-all duration-500 ease-in-out'>Demo</a> */}
               <a href='https://github.com/DevWebEdu/Desarrollador_Instagram' target="_blank" className='hover:cursor-pointer bg-slate-900  rounded-lg py-2 px-5 hover:bg-slate-800 transition-all duration-500 ease-in-out'>Source</a>
             </div>
             {/*  image */}
@@ -88,7 +88,7 @@ export const Projects = () => {
             {/* imagen-overlay */}
             <div className='absolute top-0 left-0 w-full h-full flex gap-8 items-center justify-center  opacity-0 hover:opacity-100  hover:backdrop-blur-2xl transition-all duration-500 ease-in-out'>
               {/* image-button */}
-              <a href='https://react-quiosco-iota.vercel.app/' target='_blank' className='hover:cursor-pointer bg-slate-900  rounded-lg text-xs md:text-base  py-2 px-2 md:px-5 hover:bg-slate-800 transition-all duration-500 ease-in-out'>Demo</a>
+              {/* <a href='https://react-quiosco-iota.vercel.app/' target='_blank' className='hover:cursor-pointer bg-slate-900  rounded-lg text-xs md:text-base  py-2 px-2 md:px-5 hover:bg-slate-800 transition-all duration-500 ease-in-out'>Demo</a> */}
               <a  href='https://github.com/DevWebEdu/quiosco_laravel' target='_blank' className='hover:cursor-pointer bg-slate-900 text-xs md:text-base rounded-lg py-2 px-2 md:px-5 hover:bg-slate-800 transition-all duration-500 ease-in-out'>Back-End | Source</a>
               <a  href='https://github.com/DevWebEdu/react_quiosco'  target='_blank' className='hover:cursor-pointer bg-slate-900 text-xs md:text-base rounded-lg py-2 px-2 md:px-5 hover:bg-slate-800 transition-all duration-500 ease-in-out'>Front-End | Source</a>
             </div>
